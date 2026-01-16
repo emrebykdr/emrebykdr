@@ -36,11 +36,11 @@ C# ve ASP.NET MVC ağırlıklı backend geliştirme yapıyorum. Ayrıca React Na
 **Veritabanı**
 
 * MSSQL
-* SQL
+* MongoDB
+* Firebase (Firestore / Realtime Database)
 
-**Araçlar ve Diğer**
+**Araçlar ve Diğer**tHub
 
-* Git ve GitHub
 * Docker (öğrenme aşamasında)
 * Postman
 * Ollama (local LLM entegrasyonları)
