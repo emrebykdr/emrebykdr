@@ -1,4 +1,4 @@
-# Merhaba, ben emrebykdr 👋
+# Merhaba, ben emrebykdr 
 
 **Backend Ağırlıklı Sistem Geliştiricisi | Full Stack Adayı | Masaüstü, Mobil ve Yapay Zeka Projeleri**
 
