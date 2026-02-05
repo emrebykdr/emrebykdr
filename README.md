@@ -1,74 +1,86 @@
-# Merhaba, ben emrebykdr
+# Merhaba, ben emrebykdr 👋
 
-**Backend Developer | Full Stack Adayı | Mobil, Gömülü Sistemler ve Yapay Zeka Projeleri**
+**Backend Ağırlıklı Sistem Geliştiricisi | Full Stack Adayı | Masaüstü, Mobil ve Yapay Zeka Projeleri**
 
-C# ve ASP.NET MVC ağırlıklı backend geliştirme yapıyorum. Ayrıca React Native kullanarak mobil uygulamalar geliştiriyorum. Aynı zamanda Go (Golang) öğreniyor; backend, mikroservis mimarileri, IoT ve ölçeklenebilir sistemler üzerine kendimi geliştiriyorum. Hedefim, kurumsal ve üretilebilir yazılımlar geliştiren güçlü bir full stack geliştirici olmak.
+Backend odaklı sistemler geliştiriyorum. Ağırlıklı olarak **C# ve ASP.NET MVC / ASP.NET Core API** ile çalışıyor; ölçeklenebilir, sürdürülebilir ve üretilebilir backend mimarileri üzerine yoğunlaşıyorum.  
+
+Mobil tarafta **React Native** bilgim temel seviyededir; şu an aktif olarak mobil proje geliştirmiyorum. Bunun yanında **Flutter öğrenme sürecindeyim** ve ilerleyen dönemde mobil projelerde kullanmayı hedefliyorum.  
+
+Ayrıca masaüstü uygulamalar, yapay zeka entegrasyonları ve sistem geliştirme konularına ilgi duyuyorum. Hedefim; kurumsal seviyede, ticari değeri olan **backend ağırlıklı sistemler** geliştirmek.
 
 ---
 
 ## Hakkımda
 
-* Şu anda backend, full stack ve gömülü sistemler üzerine çalışıyorum.
-* Go (Golang), mikroservis mimarisi ve Docker konularında kendimi geliştiriyorum.
-* Python kullanarak Ollama tabanlı yapay zeka destekli projeler geliştiriyorum.
-* C#, ASP.NET MVC, SQL, JavaScript, Python ve React Native ile projeler üretiyorum.
-* Backend sistemler, API geliştirme, IoT, gömülü sistemler ve yapay zeka entegrasyonlarıyla ilgileniyorum.
-* Hedefim ölçeklenebilir, sürdürülebilir ve ticari değeri olan yazılımlar geliştirmek.
+* Backend ağırlıklı sistem ve uygulamalar geliştiriyorum.
+* **ASP.NET Core Web API tarafında ileri seviye** (mimari, performans, güvenlik, ölçeklenebilirlik) konularında kendimi geliştirme aşamasındayım.
+* C# ile masaüstü uygulamalar (Windows Forms) geliştirdim.
+* React Native temel seviyede bilgim var, aktif proje geliştirmiyorum.
+* Flutter öğreniyorum ve ileride mobil projelerde kullanmayı planlıyorum.
+* Yapay zeka destekli sistemler ve otomasyon projelerine ilgi duyuyorum.
+* Uzun vadeli hedefim: **ölçeklenebilir, sürdürülebilir ve ticari değeri olan yazılımlar üretmek.**
 
 ---
 
 ## Kullandığım Teknolojiler
 
-**Backend**
+### Backend
 
-* C# / ASP.NET MVC
-* Go (Golang)
+* C#
+* ASP.NET MVC
+* ASP.NET Core Web API
 * RESTful API
-* Entity Framework
+* Entity Framework / EF Core
 
-**Frontend ve Mobil**
+### Masaüstü & Mobil
 
-* HTML, CSS
+* Windows Forms
+* React Native (temel seviye)
+* Flutter (öğrenme aşamasında)
+
+### Frontend
+
+* HTML
+* CSS
 * JavaScript
-* React Native
 * Temel UI/UX prensipleri
 
-**Veritabanı**
+### Veritabanı
 
 * MSSQL
 * MongoDB
 * Firebase (Firestore / Realtime Database)
 
-**Araçlar ve Diğer**tHub
+### Araçlar ve Diğer
 
 * Docker (öğrenme aşamasında)
 * Postman
-* Ollama (local LLM entegrasyonları)
+* Yapay zeka entegrasyonları (LLM tabanlı çözümler)
 
 ---
 
 ## Öne Çıkan Projeler
 
-* **Tur ve Rezervasyon Platformu (ASP.NET MVC)**
-  Otel, tur ve araç kiralama modüllerini içeren; rezervasyon, fiyatlama ve yönetim süreçlerine odaklanan kapsamlı bir backend projesi.
-
-* **Yurt Yönetim Sistemi**
-  Öğrenci, oda, ödeme ve yönetici panellerini kapsayan otomasyon sistemi.
-
-* **Yapay Zeka Destekli Ders Çalışma Uygulaması (Python ve Ollama)**
-  Local LLM kullanarak doküman analizi, soru-cevap ve akıllı ders çalışma özellikleri sunan uygulama.
-
-* **Gömülü Sistemler ve IoT Tabanlı Çalışmalar**
-  Sensör verisi işleme, cihaz–backend entegrasyonu ve IoT odaklı deneysel projeler.
-
-* **Mobil Uygulamalar (React Native)**
-  Backend servisleriyle entegre çalışan, platformlar arası mobil uygulamalar.
-
-Projelerin detayları için repolarımı inceleyebilirsiniz.
+### 🎓 Windows Forms Öğrenci Bilgi Sistemi
+C# Windows Forms kullanılarak geliştirilen;  
+öğrenci, ders, not ve temel yönetim işlemlerini kapsayan masaüstü otomasyon uygulaması.
 
 ---
 
+### 🧠 Yapay Zeka Destekli Ders Çalışma Uygulaması (C# Masaüstü)
+C# masaüstü uygulaması olarak geliştirilen;  
+doküman analizi, soru-cevap ve yapay zeka destekli ders çalışma özellikleri sunan uygulama.  
+(Local LLM entegrasyonu kullanılmıştır.)
+
+---
+
+### 🎫 Yapay Zeka Destekli Ticket / Destek Uygulaması
+Kullanıcı destek taleplerinin yapay zeka ile sınıflandırıldığı,  
+önceliklendirildiği ve otomatik cevap önerileri sunan ticket sistemi.
+
+---
+
+
 ## İletişim
 
-* GitHub: [https://github.com/emrebykdr](https://github.com/emrebykdr)
-* LinkedIn: [https://www.linkedin.com/in/emre-buyukdere-b8b927334/](https://www.linkedin.com/in/emre-buyukdere-b8b927334/)
+* LinkedIn: https://www.linkedin.com/in/emre-buyukdere-b8b927334/
