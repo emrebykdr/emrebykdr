@@ -23,36 +23,52 @@ Masaüstü uygulamalar, yapay zeka entegrasyonları ve sistem geliştirme konula
 ## Kullandığım Teknolojiler
 
 ### Backend
-- C#
-- ASP.NET MVC
-- ASP.NET Core Web API
-- RESTful API
-- Entity Framework / EF Core
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/Entity%20Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 ### Masaüstü ve Mobil
-- Windows Forms
-- React Native 
-- Flutter 
+![Windows Forms](https://img.shields.io/badge/Windows%20Forms-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 ### Frontend
-- HTML
-- CSS
-- JavaScript
-- Temel UI/UX prensipleri
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### Veritabanı
-- MSSQL
-- MongoDB
-- Firebase (Firestore / Realtime Database)
+![MSSQL](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ### Araçlar ve Diğer
-- Docker (öğrenme aşamasında)
-- Postman
-- Yapay zeka entegrasyonları (LLM tabanlı çözümler)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-##Projeler
+## GitHub İstatistiklerim
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=emrebykdr&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="emrebykdr GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emrebykdr&layout=compact&hide_border=true&theme=tokyonight" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=emrebykdr&hide_border=true&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+---
+
+## Projeler
 
 ### Windows Forms Öğrenci Bilgi Sistemi
 C# Windows Forms kullanılarak geliştirilen; öğrenci, ders, not ve temel yönetim işlemlerini kapsayan masaüstü otomasyon uygulaması.
@@ -72,4 +88,4 @@ Kullanıcı destek taleplerinin yapay zeka ile sınıflandırıldığı, önceli
 
 ## İletişim
 
-- LinkedIn: https://www.linkedin.com/in/emre-buyukdere-b8b927334/
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emre-buyukdere-b8b927334/)
