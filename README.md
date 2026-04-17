@@ -12,7 +12,9 @@ Masaüstü uygulamalar, yapay zeka entegrasyonları ve sistem geliştirme konula
 
 - Backend ağırlıklı sistem ve uygulamalar geliştiriyorum.
 - **ASP.NET Core Web API tarafında ileri seviye** (mimari, performans, güvenlik, ölçeklenebilirlik) konularında kendimi geliştirme aşamasındayım.
+- REST API'nin yanında **gRPC** ile de proje geliştirdim.
 - C# ile masaüstü uygulamalar (Windows Forms) geliştirdim.
+- Frontend tarafında **React.js** öğrendim ve projelerde kullanıyorum.
 - React Native konusunda temel seviyede bilgi sahibiyim.
 - Flutter öğreniyorum ve mobil projelerde kullanmayı planlıyorum.
 - Yapay zeka destekli sistemler ve otomasyon projelerine ilgi duyuyorum.
@@ -27,6 +29,7 @@ Masaüstü uygulamalar, yapay zeka entegrasyonları ve sistem geliştirme konula
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Entity Framework](https://img.shields.io/badge/Entity%20Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 ### Masaüstü ve Mobil
@@ -38,10 +41,13 @@ Masaüstü uygulamalar, yapay zeka entegrasyonları ve sistem geliştirme konula
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ### Veritabanı
 ![MSSQL](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MongoDB Atlas](https://img.shields.io/badge/MongoDB%20Atlas-00684A?style=for-the-badge&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ### Araçlar ve Diğer
@@ -70,8 +76,28 @@ Masaüstü uygulamalar, yapay zeka entegrasyonları ve sistem geliştirme konula
 
 ## Projeler
 
-### Windows Forms Öğrenci Bilgi Sistemi
-C# Windows Forms kullanılarak geliştirilen; öğrenci, ders, not ve temel yönetim işlemlerini kapsayan masaüstü otomasyon uygulaması.
+### İnsansız Kara Aracı — Teknofest Projesi
+Teknofest kapsamında geliştirilmekte olan insansız kara aracı (İKA) projesi.  
+**Yazılım ve elektrik** bölümlerinden sorumluyum; araç kontrol yazılımı, sensör entegrasyonu ve elektriksel sistem tasarımı çalışmalarını yürütüyorum.  
+> 📌 **Durum:** Proje şu an **ön tasarım aşamasında**.
+
+---
+
+### MyMoti — ASP.NET Core Web API + React
+Backend tarafında **ASP.NET Core Web API**, frontend tarafında **React.js** kullanılarak geliştirdiğim full-stack proje.  
+> 📌 **Durum:** Yakın zamanda GitHub'a yüklenecek.
+
+---
+
+### Yurt Yönetim Sistemi — ASP.NET MVC
+Öğrenci yurtlarının dijital olarak yönetilmesini sağlayan web tabanlı yönetim sistemi.  
+Öğrenci kayıt ve takibi, oda/yatak atama işlemleri, aidat ve ödeme yönetimi, giriş-çıkış kayıtları, personel yönetimi ve raporlama gibi temel yurt otomasyon süreçlerini kapsıyor.  
+**ASP.NET MVC** mimarisi ile geliştirilmiş; Entity Framework üzerinden veritabanı işlemleri yürütülmüştür.
+
+---
+
+### Yapay Zeka Destekli Ticket / Destek Uygulaması
+Kullanıcı destek taleplerinin yapay zeka ile sınıflandırıldığı, önceliklendirildiği ve otomatik cevap önerileri sunan ticket sistemi.
 
 ---
 
@@ -81,8 +107,8 @@ Local LLM entegrasyonu kullanılmıştır.
 
 ---
 
-### Yapay Zeka Destekli Ticket / Destek Uygulaması
-Kullanıcı destek taleplerinin yapay zeka ile sınıflandırıldığı, önceliklendirildiği ve otomatik cevap önerileri sunan ticket sistemi.
+### Windows Forms Öğrenci Bilgi Sistemi
+C# Windows Forms kullanılarak geliştirilen; öğrenci, ders, not ve temel yönetim işlemlerini kapsayan masaüstü otomasyon uygulaması.
 
 ---
 
