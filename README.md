@@ -1,92 +1,82 @@
 <div align="center">
-
-[![English](https://img.shields.io/badge/lang-English-blue?style=flat-square)](README.md)&nbsp;
-[![Türkçe](https://img.shields.io/badge/lang-Türkçe-red?style=flat-square)](README.tr.md)
-
+  <a href="README.md"><img src="https://img.shields.io/badge/EN-555?style=flat-square" /></a>
+  <a href="README.tr.md"><img src="https://img.shields.io/badge/TR-555?style=flat-square" /></a>
 </div>
+
+<br />
+
+<h2 align="center">Emre Bydr</h2>
+<p align="center">Backend Developer · C# & ASP.NET Core · AI Integrations</p>
+
+<br />
 
 ---
 
-<h1 align="center">Hi, I'm Emre 👋</h1>
+I build backend-heavy systems with a focus on clean architecture and scalability. My primary stack is **C# / ASP.NET Core Web API** — I've shipped projects using REST APIs, gRPC, and microservice patterns. On the frontend I use **React.js**; I'm currently learning **Flutter** for mobile. I'm drawn to AI-powered automations and enterprise-grade backend systems.
 
-<p align="center">
-  Backend-focused software developer · C# & ASP.NET Core · Scalable systems & AI integrations
+---
+
+### Stack
+
+**Backend & Runtime**
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="36" title="C#" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" width="36" title=".NET Core" />
+</p>
+
+**Frontend**
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="36" title="React.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="36" title="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="36" title="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="36" title="CSS3" />
+</p>
+
+**Mobile**
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" width="36" title="Flutter" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="36" title="React Native" />
+</p>
+
+**Database**
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="36" title="SQL Server" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="36" title="MongoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" width="36" title="Firebase" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" width="36" title="Supabase" />
+</p>
+
+**Tools & DevOps**
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="36" title="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="36" title="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="36" title="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="36" title="Postman" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" height="36" title="n8n" />
 </p>
 
 ---
 
-## About
-
-I build backend-heavy systems with a focus on **clean architecture, performance, and scalability**.  
-My primary stack is **C# / ASP.NET Core Web API**, and I've shipped projects using REST, gRPC, and microservice patterns.
-
-On the frontend I work with **React.js**. I'm learning **Flutter** for future mobile projects.  
-I'm particularly drawn to AI-powered automations, enterprise-grade backends, and desktop tooling.
-
----
-
-## Tech Stack
-
-<table>
-  <tr>
-    <td><b>Backend</b></td>
-    <td>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=cs,dotnet&perline=10" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td><b>Frontend</b></td>
-    <td>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=react,js,html,css&perline=10" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td><b>Mobile</b></td>
-    <td>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=flutter,react&perline=10" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td><b>Database</b></td>
-    <td>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=mssql,mongodb,firebase,supabase&perline=10" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td><b>Tools</b></td>
-    <td>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=docker,git,github,postman&perline=10" />
-      </a>
-    </td>
-  </tr>
-</table>
-
----
-
-## Projects
+### Projects
 
 | Project | Stack | Description |
 |---|---|---|
-| **Unmanned Ground Vehicle** | C#, Embedded | Teknofest UGV — responsible for control software, sensor integration & electrical design. *In preliminary design phase.* |
-| **MyMoti** | ASP.NET Core Web API, React.js | Full-stack productivity app with a clean REST API backend. |
-| **Dormitory Management System** | ASP.NET MVC, EF Core | Web-based system for student registration, room/bed assignment, payments and reporting. |
-| **gRPC Microservice Project** | C#, gRPC, Protocol Buffers | High-performance inter-service communication with type-safe .proto contracts. |
-| **AI Ticket / Support App** | ASP.NET Core, AI | Classifies and prioritizes support tickets automatically; suggests AI-generated responses. |
-| **AI Study Application** | C#, Local LLM | Desktop app for document analysis and AI-assisted Q&A using a local LLM. |
-| **Student Information System** | C#, Windows Forms | Desktop automation covering students, courses, grades and basic admin operations. |
+| **Unmanned Ground Vehicle** | C#, Embedded | Teknofest UGV — control software, sensor integration & electrical design. *Preliminary design phase.* |
+| **MyMoti** | ASP.NET Core, React.js | Full-stack app with a clean REST API backend. |
+| **Dormitory Management System** | ASP.NET MVC, EF Core | Student registration, room assignment, payments and reporting. |
+| **gRPC Microservice Project** | C#, gRPC, Protobuf | High-performance inter-service communication via .proto contracts. |
+| **AI Ticket / Support App** | ASP.NET Core, AI | Auto-classifies support tickets and suggests AI-generated responses. |
+| **AI Study Application** | C#, Local LLM | Desktop app for document analysis and AI-assisted Q&A. |
+| **Student Information System** | C#, Windows Forms | Desktop automation for students, courses, and grade management. |
 
 ---
 
-## GitHub Stats
+### Stats
 
 <p align="center">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=emrebykdr&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" />
@@ -99,8 +89,6 @@ I'm particularly drawn to AI-powered automations, enterprise-grade backends, and
 </p>
 
 ---
-
-## Contact
 
 <p>
   <a href="https://www.linkedin.com/in/emre-buyukdere-b8b927334/">
