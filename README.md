@@ -5,7 +5,7 @@
 
 <br />
 
-<h2 align="center">Emre Bydr</h2>
+<h2 align="center">Emre Bykdr</h2>
 <p align="center">Backend Developer · C# & ASP.NET Core · AI Integrations</p>
 
 <br />
