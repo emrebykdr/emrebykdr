@@ -1,129 +1,109 @@
 <div align="center">
 
-[![English](https://img.shields.io/badge/lang-English-blue?style=for-the-badge)](README.md)
-[![Türkçe](https://img.shields.io/badge/lang-Türkçe-red?style=for-the-badge)](README.tr.md)
+[![English](https://img.shields.io/badge/lang-English-blue?style=flat-square)](README.md)&nbsp;
+[![Türkçe](https://img.shields.io/badge/lang-Türkçe-red?style=flat-square)](README.tr.md)
 
 </div>
 
-# Hi, I'm emrebykdr
+---
 
-I'm a software developer focused on building backend-heavy systems. I primarily work with **C# and ASP.NET MVC / ASP.NET Core Web API**, concentrating on scalable, sustainable, and production-ready backend architectures.
+<h1 align="center">Hi, I'm Emre 👋</h1>
 
-On the mobile side, I have basic knowledge of **React Native** and I'm not actively developing mobile projects at the moment. Meanwhile, **I'm in the process of learning Flutter** and plan to use it in mobile projects in the future.
-
-I'm interested in desktop applications, AI integrations, and system development. My goal is to build **enterprise-grade, backend-focused software systems with commercial value**.
+<p align="center">
+  Backend-focused software developer · C# & ASP.NET Core · Scalable systems & AI integrations
+</p>
 
 ---
 
-## About Me
+## About
 
-- I develop backend-oriented systems and applications.
-- I'm currently advancing my **ASP.NET Core Web API** skills at the senior level (architecture, performance, security, scalability).
-- Alongside REST APIs, I've also developed projects with **gRPC**.
-- I've built desktop applications with C# (Windows Forms).
-- On the frontend side, I've learned **React.js** and use it in my projects.
-- I have basic knowledge of React Native.
-- I'm learning Flutter and plan to use it in mobile projects.
-- I'm interested in AI-powered systems and automation projects.
-- My long-term goal is to build scalable, sustainable, and commercially valuable software.
+I build backend-heavy systems with a focus on **clean architecture, performance, and scalability**.  
+My primary stack is **C# / ASP.NET Core Web API**, and I've shipped projects using REST, gRPC, and microservice patterns.
+
+On the frontend I work with **React.js**. I'm learning **Flutter** for future mobile projects.  
+I'm particularly drawn to AI-powered automations, enterprise-grade backends, and desktop tooling.
 
 ---
 
-## Technologies I Use
+## Tech Stack
 
-### Backend
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-![gRPC](https://img.shields.io/badge/gRPC-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Entity Framework](https://img.shields.io/badge/Entity%20Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-
-### Desktop & Mobile
-![Windows Forms](https://img.shields.io/badge/Windows%20Forms-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-
-### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-### Database
-![MSSQL](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MongoDB Atlas](https://img.shields.io/badge/MongoDB%20Atlas-00684A?style=for-the-badge&logo=mongodb&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-### Tools & Others
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-## My GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=emrebykdr&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="emrebykdr GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emrebykdr&layout=compact&hide_border=true&theme=tokyonight" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=emrebykdr&hide_border=true&theme=tokyonight" alt="GitHub Streak" />
-</p>
+<table>
+  <tr>
+    <td><b>Backend</b></td>
+    <td>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=cs,dotnet&perline=10" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Frontend</b></td>
+    <td>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=react,js,html,css&perline=10" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Mobile</b></td>
+    <td>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=flutter,react&perline=10" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Database</b></td>
+    <td>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=mssql,mongodb,firebase,supabase&perline=10" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Tools</b></td>
+    <td>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=docker,git,github,postman&perline=10" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## Projects
 
-### Unmanned Ground Vehicle — Teknofest Project
-An unmanned ground vehicle (UGV) project being developed within the scope of Teknofest.  
-I'm responsible for the **software and electrical** departments; I handle vehicle control software, sensor integration, and electrical system design.  
-> 📌 **Status:** The project is currently in the **preliminary design phase**.
+| Project | Stack | Description |
+|---|---|---|
+| **Unmanned Ground Vehicle** | C#, Embedded | Teknofest UGV — responsible for control software, sensor integration & electrical design. *In preliminary design phase.* |
+| **MyMoti** | ASP.NET Core Web API, React.js | Full-stack productivity app with a clean REST API backend. |
+| **Dormitory Management System** | ASP.NET MVC, EF Core | Web-based system for student registration, room/bed assignment, payments and reporting. |
+| **gRPC Microservice Project** | C#, gRPC, Protocol Buffers | High-performance inter-service communication with type-safe .proto contracts. |
+| **AI Ticket / Support App** | ASP.NET Core, AI | Classifies and prioritizes support tickets automatically; suggests AI-generated responses. |
+| **AI Study Application** | C#, Local LLM | Desktop app for document analysis and AI-assisted Q&A using a local LLM. |
+| **Student Information System** | C#, Windows Forms | Desktop automation covering students, courses, grades and basic admin operations. |
 
 ---
 
-### MyMoti — ASP.NET Core Web API + React
-A full-stack project I developed using **ASP.NET Core Web API** on the backend and **React.js** on the frontend.
+## GitHub Stats
 
----
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=emrebykdr&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" />
+  &nbsp;
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emrebykdr&layout=compact&hide_border=true&theme=tokyonight" />
+</p>
 
-### Dormitory Management System — ASP.NET MVC
-A web-based management system for digitally managing student dormitories.  
-Covers core dormitory automation processes such as student registration and tracking, room/bed assignment, fee and payment management, entry-exit records, staff management, and reporting.  
-Built with the **ASP.NET MVC** architecture; database operations are handled via Entity Framework.
-
----
-
-### gRPC Microservice Project
-A microservice-based project developed with **gRPC**.  
-High-performance inter-service communication is handled through **Protocol Buffers (.proto)** contracts, enabling low-latency and type-safe data exchange between services.
-
----
-
-### AI-Powered Ticket / Support Application
-A ticket system where user support requests are classified and prioritized by AI, with automated response suggestions.
-
----
-
-### AI-Powered Study Application
-A C# desktop application offering document analysis, question-answering, and AI-assisted study features.  
-Built with local LLM integration.
-
----
-
-### Windows Forms Student Information System
-A desktop automation application developed with C# Windows Forms, covering student, course, grade, and basic management operations.
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=emrebykdr&hide_border=true&theme=tokyonight" />
+</p>
 
 ---
 
 ## Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emre-buyukdere-b8b927334/)
+<p>
+  <a href="https://www.linkedin.com/in/emre-buyukdere-b8b927334/">
+    <img src="https://img.shields.io/badge/LinkedIn-Emre%20Büyükdere-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+</p>
