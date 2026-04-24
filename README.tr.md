@@ -22,7 +22,7 @@ Temiz mimari ve ölçeklenebilirlik odaklı backend sistemleri geliştiriyorum. 
 **Backend & Scripting**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,go,nodejs,express" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,go,nodejs,express,python,django,fastapi" />
   </a>
 </p>
 
@@ -50,7 +50,7 @@ Temiz mimari ve ölçeklenebilirlik odaklı backend sistemleri geliştiriyorum. 
 **Tools & DevOps**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,git,github,postman,figma" />
+    <img src="https://skillicons.dev/icons?i=docker,git,github,postman,figma,n8n" />
   </a>
 </p>
 
