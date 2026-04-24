@@ -24,8 +24,9 @@ I build backend-heavy systems with a focus on clean architecture and scalability
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="36" title="C#" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" width="36" title=".NET Core" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" width="36" title="Go" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="36" title="Node.js" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="36" title="Express.js" style="filter: drop-shadow(2px 0px 0px #fff) drop-shadow(-2px 0px 0px #fff) drop-shadow(0px 2px 0px #fff) drop-shadow(0px -2px 0px #fff);" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="36" title="Node.js" />
+  
 </p>
 
 **Frontend**
