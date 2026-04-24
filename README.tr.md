@@ -50,7 +50,7 @@ Temiz mimari ve ölçeklenebilirlik odaklı backend sistemleri geliştiriyorum. 
 **Tools & DevOps**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,git,github,postman,figma,n8n" />
+    <img src="https://skillicons.dev/icons?i=docker,git,github,postman,vercel,linux" />
   </a>
 </p>
 
