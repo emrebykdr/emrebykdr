@@ -29,7 +29,7 @@ Temiz mimari ve ölçeklenebilirlik odaklı backend sistemleri geliştiriyorum. 
 **Frontend**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,js,html,css" />
+    <img src="https://skillicons.dev/icons?i=react,js,html,css,vite,bootstrap,tailwind" />
   </a>
 </p>
 
