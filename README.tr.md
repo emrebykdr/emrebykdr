@@ -43,7 +43,7 @@ Temiz mimari ve ölçeklenebilirlik odaklı backend sistemleri geliştiriyorum. 
 **Database**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mssql,mongodb,firebase,supabase" />
+    <img src="https://skillicons.dev/icons?i=sql,mongodb,firebase,supabase" />
   </a>
 </p>
 
